@@ -19,5 +19,5 @@ feed:
 pagination: true
 ---
 
-![](blog-header.jpg)# Vinicius Schettino
+# Vinicius Schettino
 ## Ideias e tópicos de interesse de um Engenheiro de Software
