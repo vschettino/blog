@@ -1,6 +1,6 @@
 ---
 title: 'Personalizando o PostgreSQL - work_mem'
-date: '00:00 07/10/2017'
+date: '00:00 10/03/2017'
 taxonomy:
     category:
         - blog
