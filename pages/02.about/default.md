@@ -30,3 +30,4 @@ Neste Blog falo sobre tendências de mercado, novas tecnologias, comandos, snipp
 1. [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8565112P2)
 1. [GitHub](https://github.com/vschettino)
 1. [LinkedIn](https://br.linkedin.com/in/vinicius-schettino-8978b0b3)
+1. [Research Gate](https://www.researchgate.net/profile/Vinicius_Schettino) 
