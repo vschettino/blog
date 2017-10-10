@@ -13,6 +13,9 @@ taxonomy:
 
 O PostgreSQL oferece uma série de parâmetros configuráveis, voltados para atender aos diversos contextos aos quais ele é aplicado. Neste artigo iremos discutir o parâmetro `work_mem`, sua utilidade e aprender como é possível detectar sua possível má configuração.
 
+
+===
+
 ## Personalização do PostgreSQL
 
 
