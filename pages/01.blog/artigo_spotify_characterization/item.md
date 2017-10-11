@@ -1,17 +1,33 @@
 ---
-title: 'Novo Artigo Publicado - Spotify Characterization as a Software Ecosystem'
-date: '00:00 08/15/2017'
+title: 'Analisando o Ecossitema Wordpress'
+date: '00:00 10/14/2017'
 taxonomy:
     category:
         - blog
     tag:
-        - Artigos
+        - Wordpress
         - Ecossistemas
+        - Engenharia Contínua
 ---
 
+### Referências
 
-Publicamos um artigo sobre o ecossistema Spotify no 11th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2017). Foi um dos primeiros trabalhos seguindo a recomendação de Manikas 2016 para estudos mais profundos sobre ecossistemas reais, e não apenas trabalhos teóricos e genéricos sobre caracterísisticas desse tipo de relação entre sistemas, pessoas e empresas. Vou postar o resumo aqui, e se alguém quiser mais detalhes sobre o trabalho pode entrar em contato comigo no [Research Gate](https://www.researchgate.net/profile/Vinicius_Schettino).
 
-## Spotify characterization as a software ecosystem
-
-[Context] Software production methods are changing at high rate. Organizations and their former product lines are evolving to software ecosystems, seeking to take advantage of external resources that can aggregate value on their projects, such as seasoned engineers and open-source components. Meanwhile, external developers are looking to bond products with established market share, aiming for niches that may provide innovative business opportunity. [Objective] The objective of this work is to describe and evaluate technical, organizational and social aspects of Spotify, called software ecosystem, regarding previous works. [Methods] Besides the literature review and research about Spotify characteristics, we developed an application that extends Spotify native recommendation and presents information about the tracks listened, such as energy, danceability and popularity. These properties are gathered from the Spotify Web API, bringing forward deepen enlightenment about technical aspects of the platform. [Results] Through the knowledge acquired on this work, we present improvement suggestions for the ecosystem, regarding interoperability aspect.
+1. https://wordpress.org/about/stats/
+1. https://wptavern.com/wordpress-to-bump-recommended-php-version-from-5-6-to-7-0-by-the-middle-of-2017
+1. http://php.net/supported-versions.php
+1. https://make.wordpress.org/core/2015/09/10/wordpress-and-php7/#comment-27668
+1. https://www.rarst.net/wordpress/technical-responsibility/
+1. https://wordpress.org/about/
+1. https://en.wikipedia.org/wiki/WordPress#History
+1. https://en.wikipedia.org/wiki/MySQL
+1. https://wordpress.org/plugins/
+1. https://managewp.com/14-surprising-statistics-about-wordpress-usage
+1. http://www.cbronline.com/news/cybersecurity/breaches/wordpress-security-weak-spot-lets-hackers-infiltrate-and-vandalise/
+1. https://stackoverflow.com/questions/26893790/about-wordpress-theme-architecture-one-index-php-vs-multiple-template-files
+1. https://ma.tt/2017/09/on-react-and-wordpress/
+1. https://codex.wordpress.org/WordPress_APIs
+1. https://premium.wpmudev.org/blog/wordpress-security-exploits/
+1. https://developer.wordpress.com/calypso/
+1. https://wordpress.org/about/requirements/
+1. http://www.cvedetails.com/vulnerability-list.php?vendor_id=74&product_id=128&version_id=106044&page=1&hasexp=0&opdos=0&opec=0&opov=0&opcsrf=0&opgpriv=0&opsqli=0&opxss=0&opdirt=0&opmemc=0&ophttprs=0&opbyp=0&opfileinc=0&opginf=0&cvssscoremin=0&cvssscoremax=0&year=0&month=0&cweid=0&order=1&trc=40&sha=3de0c8236c2794b0d468d567e8879f77cfc28458
