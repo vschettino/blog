@@ -5,9 +5,11 @@ taxonomy:
     category:
         - blog
     tag:
-        - React
         - Ecossistemas
+        - React
         - OpenSource
+hide_git_sync_repo_link: false
+hide_from_post_list: false
 ---
 
 Os últimos meses tem sido de expectativa para os aficcionados pelo React. Depois da [decisão da Apache  Foundation](https://issues.apache.org/jira/browse/LEGAL-303) de colocar a Licença BSD + Patents Clause, utilizada pelo Facebook no React e no React Native (e em outros produtos), na lista de [licenças proibidas de integrarem produtos Apache](https://www.apache.org/legal/resolved#category-x), muita gente temeu não poder utilizar mais tais tecnologias em seus produtos. Afinal, o que diz a licença e quais cuidados devem ser tomados?
