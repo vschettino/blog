@@ -63,7 +63,7 @@ Além disso, é impossível não reparar no modelo estruturado e orientado a fun
 
 
 ## Conclusão
-Logicamente, o papel do WordPress está sendo feito, uma vez
+Logicamente, o papel do WordPress está sendo feito, uma vez que a sua participação como um dos pilares da web só cresce. Contudo, como qualquer ecossistema, fatores que afetam negativamente sua atratividade e capacidade de evolução devem ser cuidadosamente observados. Os responsáveis pelos sites devem compreender a importância dos aspectos técnicos na segurança e no desempenho, para buscar as soluções especializadas. É dever do WordPress utilizar seu alcance para fomentar as boas práticas de governança citadas neste artigo, nutrindo um ecossistema mais saudável.
 
 ### Referências
 
