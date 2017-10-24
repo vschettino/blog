@@ -6,7 +6,6 @@ taxonomy:
         - blog
     tag:
         - Links da Semana
-        - Ecossistemas
 ---
 
 1. Para quem gosta (como eu) de utilizar o `psql` para [executar queries com o PostgreSQL](https://www.postgresql.org/docs/10/static/app-psql.html), pode não gostar da paginação/formatação dos resultados, principalmente em tabelas com muitas colunas. Isso porque o `psql` utiliza o `less` como padrão para preparar os resultados, e essa ferramenta não tem nenhum suporte específico para tabelas. Para quem precisa de uma interface mais completa e não quer dar um salto para pesadas IDEs, sugiro dar uma olhada no projeto [PSPG](https://github.com/okbob/pspg), que trás funcionalidades como cores, tabulação, congelamento de colunas durante a navegação horizontal e muitas outras funcionalidades interessantes.
