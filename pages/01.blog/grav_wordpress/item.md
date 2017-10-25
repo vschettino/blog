@@ -1,6 +1,6 @@
 ---
 title: 'Porque Grav? (e não WordPress)'
-date: '00:00 10/26/2017'
+date: '00:00 10/28/2017'
 taxonomy:
     category:
         - blog
