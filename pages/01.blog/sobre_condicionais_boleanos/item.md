@@ -1,6 +1,6 @@
 ---
 title: 'Sobre condicionais e booleanos'
-date: '00:00 10/11/2017'
+date: '00:00 11/10/2017'
 taxonomy:
     category:
         - blog
