@@ -27,7 +27,7 @@ Para resumir algumas das tecnologias e que me interesso:
 Neste Blog falo sobre tendências de mercado, novas tecnologias, comandos, snippets úteis e principalmente ferramentas que conheci e gostaria de compartilhar com o público tupiniquim.
 
 ## Links Úteis
-1. [Currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8565112P2)
+1. [Currículo Lattes](http://bit.ly/2FfK2Ly)
 1. [GitHub](https://github.com/vschettino)
 1. [LinkedIn](https://br.linkedin.com/in/vinicius-schettino-8978b0b3)
-1. [Research Gate](https://www.researchgate.net/profile/Vinicius_Schettino) 
+1. [Research Gate](https://www.researchgate.net/profile/Vinicius_Schettino)
