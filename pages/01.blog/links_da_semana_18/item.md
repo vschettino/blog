@@ -10,7 +10,7 @@ taxonomy:
 
 1. O Facebook lançou o [osquery](https://github.com/facebook/osquery), um framework que promete facilitar o acesso a informações do nível do sistema operacional. Disponível para diversas plataformas (Windows, Linux e macOS), o projeto promete prover acesso aos dados de sensores, processos, módulos do kernel através de uma [interface relacional](https://osquery.io/schema/2.11.2) via SQL.
 
-1. Mesmo em SGBDs que suportam acesso concorrente às informações, existem momentos que algumas operações precisam entrar na fila para evitar a quebra do padrão ACID. É importante [conhecer quando isso pode acontecer e como evitar](https://www.citusdata.com/blog/2018/02/15/when-postgresql-blocks/), uma vez que o desempenho da aplicação pode ser severamente afeado.
+1. Mesmo em SGBDs que suportam acesso concorrente às informações, existem momentos que algumas operações precisam entrar na fila para evitar a quebra do padrão ACID. É importante [conhecer quando isso pode acontecer e como evitar](https://www.citusdata.com/blog/2018/02/15/when-postgresql-blocks/), uma vez que o desempenho da aplicação pode ser severamente afetado.
 
 1. O PostgreSQL fornece uma política de segurança baseada não só em relações, schemas e databases, mas também a nível de linhas de uma determinada tabela. Esta pode ser uma camada extra de proteção em sistemas críticos onde a mesma estrutura comporta dados de clientes/usuários distintos e a separação entre eles é questão prioritária do produto. É o [estudo de caso apresentado pela Crunchy Data](http://info.crunchydata.com/blog/a-postgresql-row-level-security-primer-creating-large-policies), que mostra como este mecanismo funciona e alguns exemplos de aplicações.
 
