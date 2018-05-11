@@ -1,6 +1,6 @@
 ---
 title: 'Links da Semana #23'
-date: '00:00 04/05/2018'
+date: '00:00 05/04/2018'
 taxonomy:
     category:
         - blog
