@@ -1,6 +1,6 @@
 ---
 title: 'Links da Semana #21'
-date: '00:00 18/04/2018'
+date: '00:00 04/18/2018'
 taxonomy:
     category:
         - blog
