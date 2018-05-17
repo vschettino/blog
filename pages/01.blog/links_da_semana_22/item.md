@@ -1,6 +1,6 @@
 ---
 title: 'Links da Semana #22'
-date: '00:00 20/04/2018'
+date: '00:00 04/20/2018'
 taxonomy:
     category:
         - blog
