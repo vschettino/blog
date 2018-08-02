@@ -6,7 +6,7 @@ taxonomy:
 body_classes: 'header-image fullwidth'
 content:
     items:
-        - '@self.children'
+        - '@self.posts.children'
     limit: 5
     order:
         by: default
