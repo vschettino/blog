@@ -9,7 +9,7 @@ content:
         - '@self.children'
     limit: 5
     order:
-        by: default
+        by: date
         dir: desc
     pagination: true
     url_taxonomy_filters: true
