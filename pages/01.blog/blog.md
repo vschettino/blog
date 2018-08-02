@@ -3,7 +3,8 @@ title: Blog
 hide_git_sync_repo_link: false
 body_classes: 'header-image fullwidth'
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
     limit: 5
     order:
         by: date
