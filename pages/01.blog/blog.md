@@ -6,7 +6,7 @@ taxonomy:
 body_classes: 'header-image fullwidth'
 content:
     items:
-        - '@self.posts.children'
+        - '@self.linksdasemana.children'
     limit: 5
     order:
         by: default
