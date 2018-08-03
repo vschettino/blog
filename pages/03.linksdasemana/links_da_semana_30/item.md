@@ -8,7 +8,7 @@ taxonomy:
         - Links da Semana
 ---
 
-1. Dicas e Macetes para [aproveitar melhor o GitHub](https://laravel-news.com/github-tips-tricks). Os que mais me chamaram atenção foram a (Hub CLI Tool)[https://github.com/github/hub] e o  Cross-Linking Issues.
+1. Dicas e Macetes para [aproveitar melhor o GitHub](https://laravel-news.com/github-tips-tricks). Os que mais me chamaram atenção foram a [Hub CLI Tool](https://github.com/github/hub) e o  Cross-Linking Issues.
 
 1. [Processamento paralelo simples](https://blog.andreiavram.ro/concurrency-php-swoole/) com o [Swoole](https://www.swoole.co.uk/) em PHP.
 
