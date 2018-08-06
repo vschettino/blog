@@ -1,7 +1,7 @@
 ---
 title: 'A [destrutiva] cultura do herói'
 date: '00:00 08/03/2018'
-published: false
+published: true
 taxonomy:
     category:
         - blog
@@ -41,7 +41,7 @@ Como qualquer cultura, a mudança não é instantânea. Mas começa de cima para
 
 - Democratização e pluralização das decisões e discussões **técnicas**
 - Incentivo a treinamentos internos, de membros da equipe para a própria equipe.
-- Buscar validação e explicação de todas as decisões tomadas pelas equipes, especialmente as que pareceram monocráticas
+- Buscar validação e explicação de todas as decisões tomadas pelas equipes, especialmente as que pareceram monocráticas.
 - Um membro da equipe é um ativo da empresa. Capacitação é um investimento necessário, não um benefício.
 - Tarefas manuais, noites em claro e hotfixes devem ser considerados como problemas. Explicações e soluções **definitivas** devem ser cobradas, pois são muito mais importantes que qualquer solução paliativa ou contorno encontrados no meio da madrugada.
 
