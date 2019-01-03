@@ -1,6 +1,6 @@
 ---
 title: 'Links da Semana #43'
-date: '00:00 14/12/2018'
+date: '00:00 12/14/2018'
 taxonomy:
     category:
         - blog
