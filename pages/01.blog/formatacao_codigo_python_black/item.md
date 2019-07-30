@@ -1,6 +1,6 @@
 ---
 title: 'Formatação Automática de Código Python com Black'
-date: '00:00 09/10/2017'
+date: '00:00 07/30/2019'
 taxonomy:
     category:
         - blog
