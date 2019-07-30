@@ -7,6 +7,7 @@ taxonomy:
     tag:
         - segurança
         - monitoramento
+        - cursos
 ---
 
 O desenvolvimento de software moderno envolve o domínio de diferentes linguagens, frameworks, bibliotecas e abordagens. Com estas responsabilidades, outra preocupação inerente ganha ainda mais destaque: a segurança das aplicações, desde sua concepção até o comportamento em ambiente de produção. O objetivo deste artigo é trazer os principais aspectos dos desafios de segurança do ponto de vista dos desenvolvedores de software.
