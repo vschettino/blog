@@ -18,6 +18,7 @@ A legibilidade do código fonte de uma aplicação é uma das características m
 O [black](https://black.readthedocs.io/en/stable/) é um projeto que se descreve como o formatador inflexível da linguagem Python. Isso porque seu "estilo" de formtação é um subconjunto da conhecida [PEP8](https://www.python.org/dev/peps/pep-0008/). Para quem não conhece, esta norma busca aumentar a legibilidade e promover a consistência dos repositórios Python, independente do contexto de aplicação. Ou seja, o código formatado pelo black está geralmente dentro da norma geral da linguagem e por isso atende a padrões mais abrangentes.
 
 ## Principais características
+
 ### Multiambiente
 Uma das principais características do *black* é que ele foi projetado para integrar com as diversas IDEs e ambientes de desenvolvimento. É possível integrar com VSCode, Pycharm, Atom, Vim, Emacs ou simplesmente executar diretamente na linha de comando. Isso facilita o desenvolvimento distribuído e globalizado, sem necessidade forçar um padrão de ambiente aos desenvolvedores. Além disso a execução via CLI facilita a configuração automática em [hooks do git](https://git-scm.com/book/pt-br/v1/Customizando-o-Git-Hooks-do-Git) e no fluxo de integração contínua (CI/CD).
 
