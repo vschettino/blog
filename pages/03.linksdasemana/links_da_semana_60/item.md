@@ -1,5 +1,5 @@
 ---
-title: 'Links da Semana #59'
+title: 'Links da Semana #60'
 date: '00:00 08/30/2019'
 taxonomy:
     category:
