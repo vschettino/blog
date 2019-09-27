@@ -1,6 +1,6 @@
 ---
-title: 'Links da Semana #62'
-date: '00:00 09/21/2019'
+title: 'Links da Semana #63'
+date: '00:00 09/27/2019'
 taxonomy:
     category:
         - blog
@@ -8,14 +8,10 @@ taxonomy:
         - Links da Semana
 ---
 
-1. **[PostgreSQL]** Compreendendo a organização interna das views para [rastrear as dependências](https://www.cybertec-postgresql.com/en/tracking-view-dependencies-in-postgresql/)
+1. **[Python]** [Comparação de desempenho de diferentes loops](https://towardsdatascience.com/speeding-up-python-code-fast-filtering-and-slow-loops-8e11a09a9c2f), utilizando numpy, funções nativas e numba.
 
-1. **[PostgreSQL]** [Resumo básico](https://postgrescheatsheet.com/#/queries) de queries e comandos psql.
+1. **[Python]** [Princípios de internacionalização](https://www.mattlayman.com/blog/2015/i18n/), ou i18n.
 
-1. **[PostgreSQL]** Evoluções em performance e funcionalidades no [mecanismo de particionamento](https://www.2ndquadrant.com/en/blog/postgresql-12-partitioning/), integrantes da versão 12 que vem por aí.
+1. **[DataScience]** Descobrindo e estilizando uma pintura escondida de Picasso, utilizando redes neurais.
 
-1. [HTTP 511 Network Authentication Required](https://evertpot.com/http/511-network-authentication-required)
-
-1. **[Python]** Desafios na [migração de mais de 35 milhões](https://www.techrepublic.com/article/jpmorgans-athena-has-35-million-lines-of-python-code-and-wont-be-updated-to-python-3-in-time/) de linhas de código para a versão 3 da linguagem
-
-1. **[Python]** [Melhorando a performance da exportação Excel com o Django](https://hakibenita.com/python-django-optimizing-excel-export).
+1. **[DataScience]** Talvez os dados anonimizados divulgados por governos e empresas [não sejam assim tão anônimos](https://www.technologyreview.com/s/613996/youre-very-easy-to-track-down-even-when-your-data-has-been-anonymized/).
