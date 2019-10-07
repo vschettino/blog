@@ -1,6 +1,6 @@
 ---
-title: 'Links da Semana #63'
-date: '00:00 09/27/2019'
+title: 'Links da Semana #62'
+date: '00:00 09/21/2019'
 taxonomy:
     category:
         - blog
