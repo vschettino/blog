@@ -1,6 +1,6 @@
 ---
-title: 'Links da Semana #70'
-date: '00:00 11/22/2019'
+title: 'Links da Semana #69'
+date: '00:00 11/08/2019'
 taxonomy:
     category:
         - blog
@@ -8,18 +8,20 @@ taxonomy:
         - Links da Semana
 ---
 
-1.  **[Vue.js]** Utilizando o [padrão Observable para criar stores reativas](https://austincooper.dev/2019/08/09/vue-observable-state-store/).
+1.  **[JavaScript]** [Construções novas da linguagem](http://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/) que você talvez ainda não conheça.
 
-1. **[Vue.js]** Utilizando [promises e WeakMaps para gerenciar melhor as requisições](https://medium.com/js-dojo/a-trick-up-vuexs-sleeve-promises-and-weakmaps-a7629042399b) e manter os componentes coesos.
+1.  **[Vue.js]** Funcionalidades esperadas na [versão 3 do projeto](https://vueschool.io/articles/vuejs-tutorials/exciting-new-features-in-vue-3/).
 
-1. **[Vue.js]** [Design Atômico de componentes](https://dev.to/sanfra1407/how-to-organize-your-components-using-the-atomic-design-dj3)
+1.  **[Vue.js]** [Boas práticas para manter projetos](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects)
 
-1. **[PostgreSQL]** Apresentação das [funcionalidades JSONB e o modelo de pesquisa e operação JSONPATH](http://filemirror.s3.amazonaws.com/jsonpath-pgday.it-2019.pdf).
+1. **[PostgreSQL]** [Primeiras impressões](https://www.cybertec-postgresql.com/en/postgresql-v12-initial-query-performance-impressions/) (não muito animadoras) do desempenho da versão 12 do SGBD.
 
-1. **[PostgreSQL]** Para que serve o [`effective_cache_size`](https://www.cybertec-postgresql.com/en/effective_cache_size-what-it-means-in-postgresql/)?
+1. **[PHP]**  O que é [monitoramento de integridade de um sistema](https://kinsta.com/blog/file-integrity-monitoring/) e como colocá-lo em prática com o Wordpress.
 
-1. **[PostgreSQL]** Como evitar o uso do `or` e os [impactos disso no desempenho](https://www.cybertec-postgresql.com/en/avoid-or-for-better-performance/) das consultas.
+1. **[Python]**  É possível [manipular tipos de data e hora](https://www.dataquest.io/blog/python-datetime-tutorial/) de diversas formas, [algumas não tão aconselháveis assim](https://blog.ganssle.io/articles/2019/11/utcnow.html).
 
-1. **[Python]** [Conceitos de outras linguagens de programação](https://8thlight.com/blog/mike-knepper/2019/11/05/polyglot-influence-in-python.html) que melhoram o design de aplicações em Python.
+1. **[Python]**  [Utilize sempre gerenciadores de ambientes virtuais ou containers](https://snarky.ca/why-you-should-use-python-m-pip/) para manusear suas dependências.
 
-1. **[Python]** [Como detectar tweets ofensivos](https://towardsdatascience.com/how-to-detect-mean-tweets-with-machine-learning-deaa9dc6a8a8).
+1. **[Python]**  [Como identificar problemas de performance](https://blog.redash.io/how-we-spotted-and-fixed-a-performance-degradation-in-our-python-code/).
+
+1. **[Python]**  Enfim o Python 2.x está morrendo. [A EOL vai até 01/01/2020](https://devguide.python.org/#status-of-python-branches), e muitos projetos [já pararam (ou vão parar) de dar suporte a esta versão](https://python3statement.org/). Quem ainda não atualizou, [precisa pensar seriamente nas suas opções](https://switowski.com/blog/you-dont-have-to-migrate-to-python3).
