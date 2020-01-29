@@ -7,6 +7,25 @@ taxonomy:
     tag:
         - python
         - refatoração
+twitterenable: true
+twittercardoptions: summary
+articleenabled: true
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 rich_preview_description: 'Formatação Automática de Código Python com Black '
 rich_preview_thumbnail: /user/pages/01.blog/formatacao_codigo_python_black/pep8.jpg
 ---
