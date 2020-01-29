@@ -10,6 +10,11 @@ taxonomy:
 twitterenable: true
 twittercardoptions: summary
 articleenabled: true
+article:
+    datePublished: '29-01-2020 15:23'
+    dateModified: '29-01-2020 15:23'
+    image_url: /blog/formatacao_codigo_python_black/pep8.jpg
+    author: 'Vinicius Schettino'
 musiceventenabled: false
 orgaenabled: false
 orga:
