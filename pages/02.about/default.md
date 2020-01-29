@@ -29,5 +29,3 @@ process:
         priceRange: $
     facebookenable: true
 ---
-
-{% include 'partials/aboutme.html.twig' %}
