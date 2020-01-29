@@ -23,12 +23,12 @@ feed:
     description: 'Sample Blog Description'
 twitterenable: true
 twittercardoptions: summary
-twittershareimg: /blog/blog-header.jpg
+twittershareimg: /blog/profile.jpg
 articleenabled: true
 article:
-    image_url: /blog/blog-header.jpg
+    image_url: /blog/profile.jpg
     author: 'Vinicius Schettino'
-    publisher_logo_url: /blog/blog-header.jpg
+    publisher_logo_url: /blog/profile.jpg
     publisher_name: 'Vinicius Schettino'
 musiceventenabled: false
 orgaenabled: false
