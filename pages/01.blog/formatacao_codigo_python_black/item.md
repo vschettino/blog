@@ -7,8 +7,11 @@ taxonomy:
     tag:
         - python
         - refatoração
+external_links:
+    target: _blank
+    mode: active
 twitterenable: true
-twittercardoptions: summary
+twittercardoptions: summary_large_image
 twittershareimg: /blog/formatacao_codigo_python_black/pep8.jpg
 articleenabled: true
 article:
@@ -16,6 +19,7 @@ article:
     dateModified: '29-01-2020 15:23'
     image_url: /blog/formatacao_codigo_python_black/pep8.jpg
     author: 'Vinicius Schettino'
+    publisher_logo_url: /blog/blog-header.jpg
     publisher_name: 'Vinicius Schettino'
 musiceventenabled: false
 orgaenabled: false
