@@ -9,6 +9,7 @@ taxonomy:
         - refatoração
 twitterenable: true
 twittercardoptions: summary
+twittershareimg: /blog/formatacao_codigo_python_black/pep8.jpg
 articleenabled: true
 article:
     datePublished: '29-01-2020 15:23'
