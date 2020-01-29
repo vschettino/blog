@@ -8,6 +8,7 @@ taxonomy:
         - python
         - refatoração
 rich_preview_description: 'Formatação Automática de Código Python com Black '
+rich_preview_thumbnail: /user/pages/01.blog/formatacao_codigo_python_black/pep8.jpg
 ---
 
 A legibilidade do código fonte de uma aplicação é uma das características mais importantes ao pensar em manutenibilidade e evolução. Isso porque [código deve ser feito para pessoas](https://medium.com/@ilyothehorrid/writing-code-for-humans-5b80a89f439c), e não simplesmente para execução por parte das máquinas. Como [80% do tempo de um desenvolvedor é gasto em leitura](https://www.quora.com/As-a-programmer-whats-the-percentage-that-you-spend-time-reading-code-and-writing-code), a facilidade de compreensão de uma *codebase* é extremamente importante para detecção de defeitos e evolução da plataforma. Neste artigo vou apresentar o um formatador automático de código Python chamado black, e o porquê dele se destacar neste meio onde já existem outras ferramentas.
