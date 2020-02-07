@@ -5,7 +5,34 @@ taxonomy:
     category:
         - blog
     tag:
-        - Links da Semana
+        - 'Links da Semana'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /linksdasemana/links_da_semana_1/links_semana.jpg
+articleenabled: true
+article:
+    datePublished: '07-02-2020 15:45'
+    dateModified: '07-02-2020 15:45'
+    image_url: /linksdasemana/links_da_semana_1/links_semana.jpg
+    author: 'Vinicius Schettino'
+    publisher_logo_url: /blog/profile.jpg
+    publisher_name: 'Vinicius Schettino'
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 ---
 
 1. Container-like structures shape the way programmers interact with computers and OS since the early days. This tale is [told by this nice article](https://dev.to/heroku/how-containers-changed-the-world-1jip), pointing out the main events that changed the way we develop and deploy software now.
