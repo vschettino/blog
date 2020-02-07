@@ -5,7 +5,35 @@ taxonomy:
     category:
         - blog
     tag:
-        - Links da Semana
+        - 'Links da Semana'
+twitterenable: true
+twittercardoptions: summary
+twittershareimg: /linksdasemana/links_da_semana_1/links_semana.jpg
+twitterdescription: 'Notícias frescas do mundo do desenvolvimento: Engenharia de Software, Python, PostgreSQL, JavaScript e muito mais na mais nova edição do Links da Semana.'
+articleenabled: true
+article:
+    datePublished: '31-01-2020 15:30'
+    dateModified: '31-01-2020 15:30'
+    image_url: /blog/profile.jpg
+    author: 'Vinicius Schettino'
+    publisher_logo_url: /blog/profile.jpg
+    publisher_name: 'Vinicius Schettino'
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+musicalbumenabled: false
+productenabled: false
+product:
+    ratingValue: 2.5
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
+facebookenable: true
 ---
 
 1. **[Engenharia de Software]** Configurações das IDEs JetBrains (PHPStorm, PyCharm, WebStorm) para aumentar a [performance da plataforma e a produtividade do desenvolvedor](https://stefanbauer.me/articles/my-phpstorm-settings-after-8-years-of-use).
