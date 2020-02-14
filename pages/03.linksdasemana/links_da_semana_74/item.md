@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Links #74'
-date: '00:00 07/02/2020'
+date: '00:00 02/07/2020'
 taxonomy:
     category:
         - blog
