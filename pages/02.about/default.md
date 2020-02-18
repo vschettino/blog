@@ -26,4 +26,3 @@ restaurant:
 facebookenable: true
 ---
 
-{% include 'partials/aboutme.html.twig' %}
